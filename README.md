@@ -5,7 +5,7 @@ Linux command line tool for setting display brightness on laptops
 
 ## Installing
 
-Simply compy the `bin/bright` executable to your `/bin` folder
+Simply copy the `bin/bright` executable to your `/bin` folder
 
 ## Usage
 
