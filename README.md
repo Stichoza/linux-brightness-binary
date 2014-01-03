@@ -9,7 +9,7 @@ Simply compy the `bin/bright` executable to your `/bin` folder
 
 ## Usage
 
-```
+```sh
 sudo bright 0   # minimum brightness
 sudo bright 15  # maximum brightness
 ```
